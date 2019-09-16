@@ -4,7 +4,7 @@ A library that meets application performance goals by manipulating power caps.
 
 For details, please see the following and reference as appropriate:
 
-* Connor Imes, Huazhe Zhang, Kevin Zhao, Henry Hoffmann. "CoPPer: Soft Real-time Application Performance Using Hardware Power Capping". In: IEEE International Conference on Autonomic Computing (ICAC). 2019.
+* Connor Imes, Huazhe Zhang, Kevin Zhao, Henry Hoffmann. "CoPPer: Soft Real-time Application Performance Using Hardware Power Capping". In: IEEE International Conference on Autonomic Computing (ICAC). 2019. DOI: https://doi.org/10.1109/ICAC.2019.00015
 
 If looking to reproduce published results, please see the integration project [copper-eval](https://github.com/powercap/copper-eval).
 
